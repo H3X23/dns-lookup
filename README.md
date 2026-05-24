@@ -21,7 +21,6 @@ Bu proje **H3X** tarafından geliştirilmiştir. DNS history araştırmaları ko
 ## ✨ Özellikler
 
 - 🔓 **Tamamen Ücretsiz** - API key gerekmiyor
-- 🚀 **Hızlı ve Güvenilir** - crt.sh veritabanını kullanır
 - 🎨 **Renkli Çıktı** - Kolay okunabilir terminal görünümü
 - ✅ **Domain Validasyonu** - Hatalı input'ları engeller
 - 📊 **İstatistik** - Toplam kayıt sayısını gösterir
