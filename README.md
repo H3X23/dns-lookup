@@ -1,16 +1,4 @@
-Kullanıcı README.md dosyasına H3X adında bir kişiyi yapıcı/yazar olarak eklemek istediği belirtiliyor. Bunu README'ye eklemek için uygun yerler var:
 
-1. Başlıkta yazar adı
-2. İletişim bölümünde
-3. Teşekkürler bölümünde
-4. Lisans bölümünde
-
-En iyi yollar:
-- Başlıkta yazar olarak belirtmek
-- About bölümü eklemek
-- Lisansda yazar adını yazmak
-
-Güncellenmiş README'yi sunacağım.```markdown
 # 🔍 DNS-HISTORY LOOKUP TOOL
 
 **Yapımcı:** H3X
